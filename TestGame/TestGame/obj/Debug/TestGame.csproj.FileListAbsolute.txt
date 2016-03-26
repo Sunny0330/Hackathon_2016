@@ -7,3 +7,6 @@ c:\users\kim\documents\visual studio 2015\Projects\TestGame\TestGame\obj\Debug\T
 c:\users\kim\documents\visual studio 2015\Projects\TestGame\TestGame\bin\Debug\TestGame.pdb
 c:\users\kim\documents\visual studio 2015\Projects\TestGame\TestGame\obj\Debug\TestGame.Form1.resources
 c:\users\kim\documents\visual studio 2015\Projects\TestGame\TestGame\obj\Debug\TestGame.csprojResolveAssemblyReference.cache
+C:\Users\Sunny\Desktop\Hackathon_2016\TestGame\TestGame\bin\Debug\TestGame.exe.config
+C:\Users\Sunny\Desktop\Hackathon_2016\TestGame\TestGame\obj\Debug\TestGame.exe
+C:\Users\Sunny\Desktop\Hackathon_2016\TestGame\TestGame\obj\Debug\TestGame.pdb
