@@ -1,0 +1,9 @@
+c:\users\kim\documents\visual studio 2015\Projects\TestGame\TestGame\bin\Debug\TestGame.exe
+c:\users\kim\documents\visual studio 2015\Projects\TestGame\TestGame\bin\Debug\TestGame.exe.config
+c:\users\kim\documents\visual studio 2015\Projects\TestGame\TestGame\obj\Debug\TestGame.Properties.Resources.resources
+c:\users\kim\documents\visual studio 2015\Projects\TestGame\TestGame\obj\Debug\TestGame.csproj.GenerateResource.Cache
+c:\users\kim\documents\visual studio 2015\Projects\TestGame\TestGame\obj\Debug\TestGame.exe
+c:\users\kim\documents\visual studio 2015\Projects\TestGame\TestGame\obj\Debug\TestGame.pdb
+c:\users\kim\documents\visual studio 2015\Projects\TestGame\TestGame\bin\Debug\TestGame.pdb
+c:\users\kim\documents\visual studio 2015\Projects\TestGame\TestGame\obj\Debug\TestGame.Form1.resources
+c:\users\kim\documents\visual studio 2015\Projects\TestGame\TestGame\obj\Debug\TestGame.csprojResolveAssemblyReference.cache
